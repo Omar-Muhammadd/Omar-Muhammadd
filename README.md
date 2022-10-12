@@ -6,6 +6,9 @@
 - 📫 How to reach me:  omaar5538@gmail.com
 - Let me know if you have any vacancies in your company, please!
 
+## Connect with me:
+https://www.linkedin.com/in/omar-muhammad-058178219/
+
 <!--
 **Omar-Muhammadd/Omar-Muhammadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
