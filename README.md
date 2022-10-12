@@ -8,6 +8,7 @@
 - 🌱 I am currently learning about algorithms, OOP and data structures 
 - 💬 Ask me about C, C++, Flutter
 - 📫 How to reach me:  omaar5538@gmail.com
+- ⭐ I am passionate about increasing my skills and gain more experience
 - Let me know if you have any vacancies in your company, please!
 
 <!--
