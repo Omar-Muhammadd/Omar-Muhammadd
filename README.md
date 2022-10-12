@@ -1,7 +1,7 @@
-### Hi 👋,I'm Omar Muhammad
-## A passionate software engineer student 
+## Hi 👋,I'm Omar Muhammad
+### A passionate software engineer student 
 
- - 🌱 I am currently learning about algorithms, OOP and data structures 
+- 🌱 I am currently learning about algorithms, OOP and data structures 
 - 💬 Ask me about C, C++, Flutter
 - 📫 How to reach me:  omaar5538@gmail.com
 - Let me know if you have any vacancies in your company, please!
