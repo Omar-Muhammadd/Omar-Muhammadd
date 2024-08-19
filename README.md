@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Muhammad</h1>
-<h3 align="center">A passionate software engineer student</h3>
+<h3 align="center">A graduate information systems</h3>
 <div align="center">
 <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" height="200">
 </div>
