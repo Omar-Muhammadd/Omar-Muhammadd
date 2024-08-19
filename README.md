@@ -3,6 +3,8 @@
 <div align="center">
 <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" height="200">
 </div>
+---
+[![](https://visitcount.itsvg.in/api?id=Omar-Muhammadd&icon=5&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 💬 Ask me about web development<br>📫 How to reach me: omaar5538@gmail.com<br>⭐ I am passionate about increasing my skills and gain more experience<br>Let me know if you have any vacancies in your company, please!
@@ -25,6 +27,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Omar-Muhammadd&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Omar-Muhammadd&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
