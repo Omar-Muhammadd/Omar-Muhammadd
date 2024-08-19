@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" height="200">
 </div>
----
+
 [![](https://visitcount.itsvg.in/api?id=Omar-Muhammadd&icon=5&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
