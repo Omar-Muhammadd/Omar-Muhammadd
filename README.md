@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300" height="300">
 </div>
 
-#![](https://visitcount.itsvg.in/api?id=Omar-Muhammadd&icon=5&color=1) 
+![](https://visitcount.itsvg.in/api?id=Omar-Muhammadd&icon=5&color=1) 
 
 # 💫 About Me:
 💬 Ask me about web development<br>📫 How to reach me: omaar5538@gmail.com<br>⭐ I am passionate about increasing my skills and gain more experience<br>Let me know if you have any vacancies in your company, please!
