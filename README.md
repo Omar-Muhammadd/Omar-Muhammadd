@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Muhammad</h1>
 <h3 align="center">A graduate information systems</h3>
 <div align="center">
-<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" height="200">
+<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300" height="300">
 </div>
 
 ![](https://visitcount.itsvg.in/api?id=Omar-Muhammadd&icon=5&color=1)
