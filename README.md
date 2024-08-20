@@ -1,3 +1,4 @@
+<h1 align="center">السلام عليكم ورحمة الله وبركاته</h1>
 <h1 align="center">Hi 👋, I'm Omar Muhammad</h1>
 <h3 align="center">A graduate information systems</h3>
 <div align="center">
