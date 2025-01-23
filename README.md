@@ -12,9 +12,6 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/omaarmuhammad01/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-muhammad-ab54542a3) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@cleancode8524) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2338b000.svg?logo=Whatsapp&logoColor=white)](https://wa.me/201112267711) 
 
 # 💻 Tech Stack:
