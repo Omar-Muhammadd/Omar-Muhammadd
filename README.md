@@ -16,16 +16,21 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![XML](https://img.shields.io/badge/xml-%23ffb326.svg?style=for-the-badge&logo=xml&logoColor=white) 
+![OWL](https://img.shields.io/badge/owl-%23B4A389.svg?style=for-the-badge&logo=owl&logoColor=white) 
+![postgresSQL](https://img.shields.io/badge/postgresSQL-%23376595.svg?style=for-the-badge&logo=postgressql&logoColor=white) 
+
+
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Odoo](https://img.shields.io/badge/odoo-%23714b67.svg?style=for-the-badge&logo=odoo&logoColor=white) 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Odoo](https://img.shields.io/badge/odoo-%23714b67.svg?style=for-the-badge&logo=odoo&logoColor=white) 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Omar-Muhammadd&theme=shadow_blue&hide_border=true)<br/>
